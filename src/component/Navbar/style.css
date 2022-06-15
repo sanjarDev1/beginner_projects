@@ -1,0 +1,27 @@
+.wrapper{
+  width: 100%;
+background-color: black;
+height: 15vh;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.wrap{
+  color: white;
+font-size: 18px;
+margin-left:70px ;
+cursor: pointer;
+display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.wrap:hover{
+    background-color: green;
+}
