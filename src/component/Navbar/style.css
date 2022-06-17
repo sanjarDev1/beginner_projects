@@ -1,5 +1,5 @@
 .wrapper{
-  width: 100%;
+  width: 100% !important;
 background-color: black;
 height: 15vh;
 display: flex;
@@ -13,6 +13,7 @@ align-items: center;
 }
 .wrap{
   color: white;
+  width: 100%;
 font-size: 18px;
 margin-left:70px ;
 cursor: pointer;

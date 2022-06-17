@@ -30,8 +30,8 @@ const Temprature = () => {
           </div>
       </div>
       <div className="button-container">
-        <button onClick={()=>increaseTemprature() }>+</button>
-        <button onClick={()=>decreaseTemprature()}>-</button>
+        <button className='buttonnn' onClick={()=>increaseTemprature() }>+</button>
+        <button className='buttonnn' onClick={()=>decreaseTemprature()}>-</button>
       </div>
 
     </div>

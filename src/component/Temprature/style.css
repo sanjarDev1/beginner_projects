@@ -38,7 +38,7 @@ body {
   transition: background 0.5s;
 }
 
-button {
+.buttonnn {
   border-radius: 100px;
   height: 80px;
   width: 80px;
@@ -48,12 +48,12 @@ button {
   border: 2px #ffffff solid;
 }
 
-button:hover {
+.buttonnn:hover {
   background: rgb(184, 184, 184);
   cursor: pointer;
 }
 
-button:focus {
+.buttonnn:focus {
   outline: 0;
 }
 
